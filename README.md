@@ -1,10 +1,10 @@
 <h1 align="center">Hey 👋, I'm Anup Nalawade</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
 ## *About Me*:
-🌱 I’m currently learning **DSA**<br>
+🌱 I’m currently learning **Data Structures**<br>
 👯 I’m looking for **internship** & **job** opportunities<br>
-💬 Ask me about **Machine Learning**, **Deep Learning** & **NLP**<br>
+💬 Ask me about **Machine Learning**, **Python Development** & **Software Development**<br>
 📫 How to reach me anupnalawadee@gmail.com
 <br>
 
